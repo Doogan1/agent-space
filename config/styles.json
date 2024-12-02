@@ -1,0 +1,16 @@
+{
+    "professional": {
+        "font_family": "Arial, sans-serif",
+        "primary_color": "#2c3e50",
+        "secondary_color": "#3498db",
+        "heading_style": "large",
+        "layout": "single-column"
+    },
+    "casual": {
+        "font_family": "Georgia, serif",
+        "primary_color": "#34495e",
+        "secondary_color": "#27ae60",
+        "heading_style": "medium",
+        "layout": "magazine"
+    }
+}

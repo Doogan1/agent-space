@@ -1,0 +1,14 @@
+{
+    "department_name": "Sample Department",
+    "default_blog_style": "professional",
+    "content_settings": {
+        "max_blog_length": 1000,
+        "include_timestamps": true,
+        "categories": ["updates", "announcements", "events"]
+    },
+    "output_formats": ["blog", "newsletter"],
+    "metadata": {
+        "track_changes": true,
+        "auto_categorize": true
+    }
+}
